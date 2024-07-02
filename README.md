@@ -41,7 +41,10 @@ To get this project up and running locally on your machine, follow these steps:
 
 ## Screenshots
 
-![Weather Widget](screenshot.png)
+![Screenshot 2024-07-02 090522](https://github.com/ab1ngeorge/Weathertrend-Widget/assets/131862797/1828f21d-b628-4f0e-8610-d1566665286b)
+![Screenshot 2024-07-02 090637](https://github.com/ab1ngeorge/Weathertrend-Widget/assets/131862797/11b8b331-e425-4add-a650-f42342148fef)
+![Screenshot 2024-07-02 090429](https://github.com/ab1ngeorge/Weathertrend-Widget/assets/131862797/fc6649e4-9e06-4092-a426-e4d02072b0ca)
+![Screenshot 2024-07-02 090110](https://github.com/ab1ngeorge/Weathertrend-Widget/assets/131862797/28ee196c-3bb2-407c-8218-be41f63b214f)
 
 ## License
 
