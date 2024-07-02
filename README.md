@@ -2,6 +2,9 @@
 
 This is a simple and stylish weather widget app that displays current weather information for a specified location. It fetches data from a weather API and presents it in a user-friendly interface.
 
+## Demo
+Check out the live demo [here](https://ab1ngeorge.github.io/Weathertrend-Widget/).
+
 ## Features
 
 - Displays the current temperature, weather description, humidity, and wind speed.
