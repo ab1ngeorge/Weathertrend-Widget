@@ -21,13 +21,8 @@ Check out the live demo [here](https://ab1ngeorge.github.io/Weathertrend-Widget/
 
 To get this project up and running locally on your machine, follow these steps:
 
-1. **Clone the repository**
-    ```bash
-    git clone https://github.com/yourusername/weather-widget-app.git
-    cd weather-widget-app
-    ```
 
-2. **Open the project**
+1. **Open the project**
     Open `index.html` in your preferred web browser to see the app in action.
 
 
